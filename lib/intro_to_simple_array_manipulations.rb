@@ -1,3 +1,3 @@
-def using push()
+def using_push
 
 end
