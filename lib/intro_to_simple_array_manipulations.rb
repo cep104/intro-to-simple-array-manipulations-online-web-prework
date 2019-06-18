@@ -1,5 +1,5 @@
-def using_push
-array = ["Hozier", "Ariana Grande", "Usher"]
-next_artist = "Beyonce"
-artists.push(next_artist)
+def using_push(array, string)
+array = []
+string = "Beyonce"
+array.push(next_artist)
 end
