@@ -34,5 +34,7 @@ def using_insert(list_of_esoteric_programming_languages,another_esoteric_languag
     @list_of_esoteric_programming_languages.insert(4,@another_esoteric_language)
 end
 
-def using_uniq
+def using_uniq(captain_planet_and_the_planeteers)
+  captain_planet_and_the_planeteers = ["Captain Planet", "Gaia", "Kwame", "Gi", "Linka", "Wheeler", "Gaia"]
+    captain_planet_and_the_planeteers.uniq
 end
