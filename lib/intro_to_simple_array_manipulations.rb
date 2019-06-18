@@ -23,7 +23,7 @@ def shift_with_args(array)
 end
 
 def using_concat(array, more_array)
-  array = []
-  more_array = []
+  array = ["hello","there"]
+  more_array = ["hi","how"]
  new_array = array.concat(more_array)
 end
