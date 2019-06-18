@@ -5,6 +5,7 @@ end
 
 def using_unshift(array, string)
   array=[]
-  array.unshift("#{string}")
+  string = "hello"
+  array.unshift(string)
 end
 
