@@ -50,7 +50,7 @@ end
 
 def using_delete_at(array,integer)
   array = ["red","yellow","blue", "green"]
-  integer = 2
-  array.delete_at(integer)
+
+  array.delete_at(2)
 end
 
