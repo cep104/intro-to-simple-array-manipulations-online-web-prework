@@ -1,4 +1,4 @@
-using push(array,element)
+using push(element)
 array=[]
 new_element="string"
 end
