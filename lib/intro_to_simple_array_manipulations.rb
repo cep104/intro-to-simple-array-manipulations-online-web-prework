@@ -22,8 +22,8 @@ def shift_with_args(array)
   array.shift(2)
 end
 
-def using_concat(my_, more_favs)
-  @my_favorite_things = ["raindrops on roses", "whiskers on kittens"]
-  more_favs = ["mario kart", "flatiron school"]
-  @all_my_favs = @my_favorite_things.concat(more_favs)
+def using_concat(array, more_array)
+  array = ["raindrops on roses", "whiskers on kittens"]
+  more_array = ["mario kart", "flatiron school"]
+ new_array = array.concat(more_array)
 end
