@@ -33,3 +33,6 @@ def using_insert(list_of_esoteric_programming_languages,another_esoteric_languag
     @another_esoteric_language = "Malbolge"
     @list_of_esoteric_programming_languages.insert(4,@another_esoteric_language)
 end
+
+def using_uniq
+end
