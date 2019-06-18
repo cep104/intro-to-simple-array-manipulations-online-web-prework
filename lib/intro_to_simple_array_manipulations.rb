@@ -44,4 +44,6 @@ def using_flatten(private_colleges_in_newyork)
   private_colleges_in_newyork.flatten
 end
 
-def
+def using_delete
+  
+end
