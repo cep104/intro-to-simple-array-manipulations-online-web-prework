@@ -1,4 +1,4 @@
-def using push(array,element)
+def using push()
 array=[]
 new_element="string"
 array.push(new_element)
